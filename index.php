@@ -39,10 +39,7 @@
         <h3>
             Wandering Tales
         </h3>  
-    </section>
-            
-            
-        
+    </section>      
     <footer>
         <p class="CopyrightText">
             <b>
